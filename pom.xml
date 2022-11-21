@@ -10,4 +10,4 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.roger.projectadam.Projectadam</exec.mainClass>
     </properties>
-</project>
+</project> 

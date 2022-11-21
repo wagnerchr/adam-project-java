@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.roger.projectadam","l":"Projectadam"},{"p":"com.roger.projectadam","l":"Tela_inicial"},{"p":"com.roger.projectadam","l":"Tratamento_Mensagens"}];updateSearchResults();

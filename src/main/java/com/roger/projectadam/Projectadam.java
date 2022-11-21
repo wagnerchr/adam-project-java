@@ -47,6 +47,6 @@ public class Projectadam {
         image = new ImageIcon(newimg);
         
         telainicial.jLabel1.setIcon(image);
-        
+        telainicial.setIconImage(newimg);
     }
 }

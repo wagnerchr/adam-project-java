@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Users/roger/OneDrive/Documentos/GitHub/adam-project-java/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/roger/OneDrive/Documentos/GitHub/adam-project-java/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'projectadam 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'projectadam 1.0-SNAPSHOT API'
+com.roger.projectadam
+'C:/Users/roger/OneDrive/Documentos/GitHub/adam-project-java/src/main/java/com/roger/projectadam/Projectadam.java'
+'C:/Users/roger/OneDrive/Documentos/GitHub/adam-project-java/src/main/java/com/roger/projectadam/Tela_inicial.java'
+'C:/Users/roger/OneDrive/Documentos/GitHub/adam-project-java/src/main/java/com/roger/projectadam/Tratamento_Mensagens.java'
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\src\main\java = 1669033765494
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\allclasses-index.html = 1669051326238
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\allpackages-index.html = 1669051326242
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\copy.svg = 1669051326295
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\element-list = 1669051326104
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\help-doc.html = 1669051326287
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\index-all.html = 1669051326274
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\index.html = 1669051326278
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\jquery-ui.overrides.css = 1669051326356
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\member-search-index.js = 1669051326253
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\module-search-index.js = 1669051326246
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\overview-tree.html = 1669051326219
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\package-search-index.js = 1669051326248
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\script.js = 1669051326293
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\search.js = 1669051326299
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\serialized-form.html = 1669051326172
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\stylesheet.css = 1669051326291
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\tag-search-index.js = 1669051326255
+C:\Users\roger\OneDrive\Documentos\GitHub\adam-project-java\target\apidocs\type-search-index.js = 1669051326250
